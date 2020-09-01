@@ -1,17 +1,17 @@
-#### 👋 Hi there
-😄 Pronouns: He/Him/His
+# Hi! My name is Govind
 
-<!--
-**govindsartaj/govindsartaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 he/him/his
 
-Here are some ideas to get you started:
+> I'm a software engineer based in the U.S. (but I'm open and excited to live anywhere!). I will graduate from Grinnell College with a Computer Science degree in May 2021.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, I have been doing a lot of full stack development with Javascript and PHP while working as an intern at [College Kickstart](https://www.collegekickstart.com/). Last summer, I was a machine learning intern with [amplio.ai](http://amplio.ai/). I pay a lot of attention to detail, and am obsessed with customer-focused development. Drop me a line if you have a project, or know of a role that might fit me!
+
+# 🔗 Links!
+
+💻 [website!](http://govindsb.me)
+
+✉️ [govindbrahmanyapura@gmail.com](mailto:govindbrahmanyapura@gmail.com)
+
+🙋🏾 [linkedin!](http://linkedin.com/in/govindbrahmanyapura/)
+
+📜 [resume!](https://www.govindsb.me/assets/govind-b-resume.pdf)
