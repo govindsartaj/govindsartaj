@@ -8,7 +8,7 @@ I'm a software engineer based in the U.S. (but I'm open and excited to live anyw
 
 # 🔗 Links!
 
-💻 [website!](http://govindsb.me)
+💻 [website!](https://govindb.com)
 
 ✉️ [govindbrahmanyapura@gmail.com](mailto:govindbrahmanyapura@gmail.com)
 
