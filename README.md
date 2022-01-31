@@ -14,4 +14,4 @@ I'm a software engineer based in the U.S. (but I'm open and excited to live anyw
 
 🙋🏾 [linkedin!](http://linkedin.com/in/govindbrahmanyapura/)
 
-📜 [resume!](https://www.govindsb.me/assets/govind-b-resume.pdf)
+📜 [resume!](https://www.govindb.com/resume.pdf)
